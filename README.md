@@ -173,3 +173,5 @@ FROM loan
 GROUP BY home_ownership
 ORDER BY Total_Loan_Applications DESC;
 ```
+
+### Note: Project inspired by publicly available Bank Loan datasets and self-driven learning resources.
