@@ -174,4 +174,10 @@ GROUP BY home_ownership
 ORDER BY Total_Loan_Applications DESC;
 ```
 
+### Dashboard Preview
+![Dashboard 1](https://github.com/user-attachments/assets/8040842c-2c79-40a9-89c4-2965b2874efb)
+![Dashboard 2](https://github.com/user-attachments/assets/bd84eaa8-f005-4b45-9d10-d59cb2cb6b46)
+![Dashboard 3](https://github.com/user-attachments/assets/a2418e90-4ed7-4ea8-9320-2bc0d20e98d6)
+
+
 ### Note: Project inspired by publicly available Bank Loan datasets and self-driven learning resources.
