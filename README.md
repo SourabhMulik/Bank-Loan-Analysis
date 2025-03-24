@@ -1,4 +1,14 @@
-# Bank-Loan-Analysis
+# Bank Loan Analysis & Dashboard (SQL + Tableau)
+
+## Project Overview
+
+**Project Title**: Bank Loan Analysis
+
+## Objectives
+
+1. **Data Cleaning & Preparation**: Verifyed data quality and completeness using PostgreSQL.
+2. **Loan Analysis**: Validated loan performance KPIs (e.g., good loan & bad loan, average interest rate, DTI ratio, total funded amount).
+3. **Tableau Dashboard Development**: Built interactive dashboards to visualize important KPIs.
 
 ### Create table
 
