@@ -1,10 +1,9 @@
 # Bank-Loan-Analysis
 
---## Import the csv file in SQL
+### Create table
 
 ```sql
-CREATE TABLE loan(
-		id int primary key, address_state varchar, application_type varchar, emp_length varchar, 
+CREATE TABLE loan(id int primary key, address_state varchar, application_type varchar, emp_length varchar, 
 		emp_title varchar, grade varchar, home_ownership varchar, issue_date date, last_credit_pull_date date, 
 		last_payment_datedate, loan_status varchar, next_payment_date date, member_id int, purpose varchar, 
 		sub_grade varchar, term varchar, verification_status varchar, annual_income float, dti float, installment float, 
